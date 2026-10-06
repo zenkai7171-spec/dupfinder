@@ -1,0 +1,9 @@
+# Compiled binaries
+*.exe
+*.o
+*.out
+dupfinder
+
+# OS metadata
+.DS_Store
+Thumbs.db
